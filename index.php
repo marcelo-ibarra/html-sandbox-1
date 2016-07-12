@@ -5,23 +5,51 @@
 		<title>My Web Page</title>
 	</head>
 	<body>
-		<h1>Hai World!</h1>
-		<p>Howl uncontrollably for no reason hunt by meowing loudly at 5am next to human slave food dispenser and lick sellotape but refuse to drink water except out of someone's glass. Ignore the squirrels, you'll never catch them anyway leave hair everywhere, yet peer out window, chatter at birds, lure them to mouth and if it fits, i sits but poop on grasses if it fits, i sits. Gnaw the corn cob love to play with owner's hair tie or meowwww for scratch at the door then walk away favor packaging over toy.</p>
-		<h2>About Me</h2>
-		<p>Howl uncontrollably for no reason hunt by meowing loudly at 5am next to human slave food dispenser and lick sellotape but refuse to drink water except out of someone's glass. Ignore the squirrels, you'll never catch them anyway leave hair everywhere.</p>
-		<ul>
-			<li>item 1</li>
-			<li>item 2</li>
-			<li>item 3</li>
-		</ul>
-		<ol>
-			<li>item 1</li>
-			<li>item 2</li>
-			<li>item 3</li>
-		</ol>
-		<div>
-			<a href="https://google.com" target="_blank">Go to Google.com</a>
-		</div>
-		<img src="images/pikachu.png" alt="pikachu" />
+		<header>
+			<h1>Hai World!</h1>
+		</header>
+
+		<main>
+			<p id="first-paragraph">Howl <strong>uncontrollably</strong> for no <em>reason</em> hunt by meowing loudly at 5am next to human slave food dispenser and lick sellotape but refuse to drink water except out of someone's glass. Ignore the squirrels, you'll never catch them anyway leave hair everywhere, yet peer out window, chatter at birds, lure them to mouth and if it fits, i sits but poop on grasses if it fits, i sits. Gnaw the corn cob love to play with owner's hair tie or meowwww for scratch at the door then walk away favor packaging over toy.</p>
+			<h2 class="pretty-title red-text">About Me</h2>
+			<p>Howl uncontrollably for no reason hunt by meowing loudly at 5am next to human slave food dispenser and lick sellotape but refuse to drink water except out of someone's glass. Ignore the squirrels, you'll never catch them anyway leave hair everywhere.</p>
+			<ul>
+				<li>item 1</li>
+				<li>item 2</li>
+				<li>item 3</li>
+			</ul>
+			<ol>
+				<li>item 1</li>
+				<li>item 2</li>
+				<li>item 3</li>
+			</ol>
+			<div>
+				<a href="https://google.com" target="_blank">Go to Google.com</a>
+			</div>
+			<img src="images/pikachu.png" alt="pikachu" />
+
+			<table>
+				<tr>
+					<th>
+						table column 1
+					</th>
+					<th>
+						table column 2
+					</th>
+				</tr>
+				<tr>
+					<td>
+						table cell 1
+					</td>
+					<td>
+						table cell 2
+					</td>
+				</tr>
+			</table>
+		</main>
+
+		<footer>
+			&copy; 2016
+		</footer>
 	</body>
 </html>
