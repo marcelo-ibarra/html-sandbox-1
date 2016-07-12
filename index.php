@@ -38,10 +38,12 @@
 				<li>item 3</li>
 			</ol>
 
-			<!-- Insert Pikachu -->
+			<!-- Insert Google Link -->
 			<div>
 				<a href="https://google.com" target="_blank">Go to Google.com</a>
 			</div>
+
+			<!-- Insert Pikachu-->
 			<img src="images/pikachu.png" alt="pikachu" />
 
 			<!-- Table -->
