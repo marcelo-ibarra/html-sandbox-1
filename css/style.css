@@ -4,5 +4,19 @@
 */
 
 #first-paragraph {
+	background: url("../images/pikachu.png") center center;
+	border: 5px solid yellow;
+	color: fuchsia;
+	font-family: sans-serif;
+	font-size: 16px;
+	padding: 20px 50px 5px 100px;
+	margin: 50px;
+}
 
+.box {
+	background-color: darkturquoise;
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	padding: 20px;
 }
