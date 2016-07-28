@@ -2,29 +2,7 @@
 * Style Sheet for HTML Sandbox
 *
 */
-h1 {
-	font-size: 50px;
-}
-
-.foo-title {
-	background-color: orange;
-	color: black;
-}
-
-.pretty-title {
-	background-color: rebeccapurple;
-	border-radius: 20px;
-}
-
-header {
-	background-color: limegreen;
-	height: 300px;
-	box-shadow: 5px 5px 5px red;
-	border: 10px dotted fuchsia;
-}
 
 #first-paragraph {
-	background-color: yellow;
-	border: 5px dotted turquoise;
-	color: red;
+
 }

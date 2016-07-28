@@ -15,7 +15,7 @@
 
 		<!-- Begin Header -->
 		<header>
-			<h1 class="foo-title pretty-title">Hai World!</h1>
+			<h1>Hai World!</h1>
 		</header>
 
 		<!-- Start Main Content Here -->
